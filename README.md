@@ -1,1 +1,6 @@
 # electronics-catalogue
+
+
+## Resistor
+
+- 
